@@ -13,8 +13,7 @@ video_alt: Factores bióticos y abióticos
 video_url: https://www.youtube.com/watch?v=AFgZZSnEyAM # just URL https://www.youtube.com/watch?v=AFgZZSnEyAM
 video_upload_date: C:\Users\DANIELCORTÉS\Documents\videos powtoon
 video_description: > # this means to ignore newlines until "Facebook_ID:"
-  Write an awesome description for your video site here. You can edit
-  this line in _config.yml. It will appear in the capption under the video
+Es un vídeo sencillo para niños de grado séptimo
 #=========== Facebook/Google ID ===========
 Facebook_ID: false # Turns on Facebook Open Graph meta data  / ON: {Your Facebook Page ID} OFF: False
 Google_ID: false # Google Analytics ID
