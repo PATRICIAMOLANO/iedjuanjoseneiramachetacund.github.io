@@ -1,18 +1,16 @@
 #=========== Site settings ===========
-title: Your awesome title
-email: your-email@domain.com # Used for Github project forumspree.io HTML Forums Made Easy and FREE
+title: INSTITUCION EDUCATICA DISTRITAL JUAN JOSE NEIRA MACHETA CUNDINAMARCA
+email: pmolano22@gmail.com # Used for Github project forumspree.io HTML Forums Made Easy and FREE
 description: > # this means to ignore newlines until "url:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+  Repositorio digital   para la didáctica de las ciencias naturales a través de  la aplicación powtoon, con los estudiantes de la  IED Juan José Neira, municipio de Machetá, Cundinamarca
+url: "iedjuanjoseneiramachetacund.github.io" # the base hostname & protocol for your site
 paginate: 4 # NEEDS to stay at 4 to work
 #=========== Gems ===========
 gems: [jekyll-paginate]
 #=========== 1st Page Video ===========
 video_tittle: "Lorem Ipsum Video"
 video_alt: Lorem Ipsum Video
-video_url: https://www.youtube.com/embed/dRjE1JwdDLI # just URL
+video_url:https://www.youtube.com/watch?v=AFgZZSnEyAM # just URL
 video_upload_date:
 video_description: > # this means to ignore newlines until "Facebook_ID:"
   Write an awesome description for your video site here. You can edit
