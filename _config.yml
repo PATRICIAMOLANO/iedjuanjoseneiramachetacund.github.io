@@ -9,8 +9,8 @@ paginate: 4 # NEEDS to stay at 4 to work
 gems: [IEDJUANJOSENEIRAMACHETACUND-paginate]
 #=========== 1st Page Video ===========
 video_tittle: "Factores bióticos y abióticos"
-video_alt: Lorem Ipsum Video
-video_url:https://www.youtube.com/watch?v=AFgZZSnEyAM # just URL
+video_alt: Factores bióticos y abióticos
+video_url: https://www.youtube.com/watch?v=AFgZZSnEyAM # just URL
 video_upload_date:
 video_description: > # this means to ignore newlines until "Facebook_ID:"
   Write an awesome description for your video site here. You can edit
