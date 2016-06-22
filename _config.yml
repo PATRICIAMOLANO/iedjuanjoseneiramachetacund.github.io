@@ -2,11 +2,11 @@
 title: "INSTITUCION EDUCATICA DISTRITAL JUAN JOSE NEIRA MACHETA CUNDINAMARCA"
 email: pmolano22@gmail.com # Used for Github project forumspree.io HTML Forums Made Easy and FREE
 description: > # this means to ignore newlines until "url:"
-  Repositorio digital   para la didáctica de las ciencias naturales a través de  la aplicación powtoon, con los estudiantes de la  IED Juan José Neira, municipio de Machetá, Cundinamarca
+  Repositorio digital para la didáctica de las ciencias naturales a través de  la aplicación powtoon, con los estudiantes de la  IED Juan José Neira, municipio de Machetá, Cundinamarca
 url: "iedjuanjoseneiramachetacund.github.io" # the base hostname & protocol for your site
 paginate: 4 # NEEDS to stay at 4 to work
 #=========== Gems ===========
-gems: [jekyll-paginate]
+gems: [IEDJUANJOSENEIRAMACHETACUND-paginate]
 #=========== 1st Page Video ===========
 video_tittle: "Factores bióticos y abióticos"
 video_alt: Lorem Ipsum Video
