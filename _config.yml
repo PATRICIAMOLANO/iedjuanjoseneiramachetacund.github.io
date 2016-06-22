@@ -25,10 +25,10 @@ social:
   - title: twitter
     url: https://twitter.com/jekyllrb # @USERNAME without @ / Only Need for Twitter Feed
   - title: github
-    url: https://github.com/jekyll
+    url: https://github.com/IEDJUANJOSENEIRAMACHETACUND
 #=========== Build settings ===========
 markdown: kramdown
-permalink: /:title
+permalink: /:BIBLIOTECA VIRTUAL
 #=========== Default Settings ===========
 defaults:
   -
