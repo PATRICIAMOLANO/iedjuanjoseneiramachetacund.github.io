@@ -5,7 +5,7 @@
 
 #================ Required ================================
 title:  "BIOLOGIA" # required for ALL
-Facebook_ID:  # Turns on Facebook Open Graph meta data  / ON: {Your Facebook Page ID} OFF: False
+Facebook_ID:  # Turns on Facebook Open Graph meta data  / ON: {https://www.facebook.com/iedjuanjose.neira?fref=ts} OFF: False
 
 #================ Main Image ================================
 image: BIOLOGIA.jpg # required for Google Snippet and Twitter Image Card
@@ -15,7 +15,7 @@ ISO_8601_date: # required for Google Snippet and Schema.org / fallback is in pla
 #================ Author ================================
 author: #  PATRICIA MOLANO / Show at top of post
 twitter_author: #  @USERNAME without @ / Need for Twitter Card
-URL_author: #  iedjuanjoseneiramachetacund.github.io / Need for Schema.org and Facebook
+URL_author: #  iedjuanjoseneiramachetacund.github.io
 
 #================ Optional =============================
 subTitle: # optional for Google Snippet and Schema.org  
