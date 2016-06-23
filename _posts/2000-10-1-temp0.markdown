@@ -5,7 +5,7 @@
 
 #================ Required ================================
 title:  "BIOLOGIA" # required for ALL
-Facebook_ID:  # Turns on Facebook Open Graph meta data  / ON: {https://www.facebook.com/iedjuanjose.neira?fref=ts} OFF: False
+Facebook_ID:  # Turns on Facebook Open Graph meta data  / ON: {https://www.facebook.com/iedjuanjose.neira} OFF: False
 
 #================ Main Image ================================
 image: BIOLOGIA.jpg # required for Google Snippet and Twitter Image Card
