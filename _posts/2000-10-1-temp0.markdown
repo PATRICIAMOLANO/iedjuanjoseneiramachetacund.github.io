@@ -4,16 +4,16 @@
 # Only Content Is Required for Descriptions to work
 
 #================ Required ================================
-title:  "TEST PAGE" # required for ALL
+title:  "BIOLOGIA" # required for ALL
 Facebook_ID:  # Turns on Facebook Open Graph meta data  / ON: {Your Facebook Page ID} OFF: False
 
 #================ Main Image ================================
-image: FALLBACK.jpg # required for Google Snippet and Twitter Image Card
+image: BIOLOGIA.jpg # required for Google Snippet and Twitter Image Card
 ImageAlt: # required for Google Snippet
 ISO_8601_date: # required for Google Snippet and Schema.org / fallback is in place if you leave it out
 
 #================ Author ================================
-author: #  Name of author of article / Show at top of post
+author: #  PATRICIA MOLANO / Show at top of post
 twitter_author: #  @USERNAME without @ / Need for Twitter Card
 URL_author: #  Personal Page for Author / Need for Schema.org and Facebook
 
