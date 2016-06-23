@@ -15,7 +15,7 @@ ISO_8601_date: # required for Google Snippet and Schema.org / fallback is in pla
 #================ Author ================================
 author: #  PATRICIA MOLANO / Show at top of post
 twitter_author: #  @USERNAME without @ / Need for Twitter Card
-URL_author: #  Personal Page for Author / Need for Schema.org and Facebook
+URL_author: #  iedjuanjoseneiramachetacund.github.io / Need for Schema.org and Facebook
 
 #================ Optional =============================
 subTitle: # optional for Google Snippet and Schema.org  
